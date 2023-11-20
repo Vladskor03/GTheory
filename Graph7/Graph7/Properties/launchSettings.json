@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Graph7": {
-      "commandName": "Project",
-      "commandLineArgs": "-m data.txt.txt"
-    }
-  }
-}

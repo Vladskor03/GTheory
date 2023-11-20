@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Graphs2": {
-      "commandName": "Project",
-      "commandLineArgs": "-l Matrix.txt"
-    }
-  }
-}

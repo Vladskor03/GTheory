@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Graphs3": {
-      "commandName": "Project",
-      "commandLineArgs": "-m GraphFile.txt"
-    }
-  }
-}

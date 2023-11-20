@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vt0urxDs6m+OaTEnTj5zzmwdRhlEr1kpkAdBKS0YF3vgFj3v6XpQZ5nlUI9og+iZtcEmSHNE5+VXzedacAWHyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seeds\\source\\repos\\Graphs\\Graphs\\Graphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seeds\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
+    "C:\\Users\\seeds\\.nuget\\packages\\greenpipes\\4.0.1\\greenpipes.4.0.1.nupkg.sha512",
+    "C:\\Users\\seeds\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\seeds\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\seeds\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

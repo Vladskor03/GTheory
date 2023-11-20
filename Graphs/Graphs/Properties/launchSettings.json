@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graphs": {
+      "commandName": "Project",
+      "commandLineArgs": "-e Graph_Matrix.txt"
+    }
+  }
+}

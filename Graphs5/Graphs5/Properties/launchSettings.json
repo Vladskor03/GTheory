@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Graphs5": {
-      "commandName": "Project",
-      "commandLineArgs": "-m Tasks.txt -n 29 -d 8"
-    }
-  }
-}

@@ -1,0 +1,15 @@
+C:\Users\seeds\source\repos\Graphs3\Graphs3\bin\Debug\net6.0\Graphs3.exe
+C:\Users\seeds\source\repos\Graphs3\Graphs3\bin\Debug\net6.0\Graphs3.deps.json
+C:\Users\seeds\source\repos\Graphs3\Graphs3\bin\Debug\net6.0\Graphs3.runtimeconfig.json
+C:\Users\seeds\source\repos\Graphs3\Graphs3\bin\Debug\net6.0\Graphs3.dll
+C:\Users\seeds\source\repos\Graphs3\Graphs3\bin\Debug\net6.0\Graphs3.pdb
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.csproj.AssemblyReference.cache
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.AssemblyInfoInputs.cache
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.AssemblyInfo.cs
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.csproj.CoreCompileInputs.cache
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.dll
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\refint\Graphs3.dll
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.pdb
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\Graphs3.genruntimeconfig.cache
+C:\Users\seeds\source\repos\Graphs3\Graphs3\obj\Debug\net6.0\ref\Graphs3.dll

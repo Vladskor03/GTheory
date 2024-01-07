@@ -8,7 +8,7 @@ class Map:
         Nj = 0
         MD = []
         fin = open(fname, "r")
-        while (True):
+        while True:
             line = fin.readline().split()
             line = list(map(int, line))
             if not line:
